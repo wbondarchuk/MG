@@ -1,0 +1,14 @@
+E:/Proga/QT5/Task1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/CMakeFiles/edit_cache.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/CMakeFiles/rebuild_cache.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Base/CMakeFiles/edit_cache.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Base/CMakeFiles/Base.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Base/CMakeFiles/rebuild_cache.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Base/CMakeFiles/Base_autogen_timestamp_deps.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Base/CMakeFiles/Base_autogen.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Lesson1/CMakeFiles/edit_cache.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Lesson1/CMakeFiles/lesson1.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Lesson1/CMakeFiles/rebuild_cache.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Lesson1/CMakeFiles/lesson1_autogen_timestamp_deps.dir
+E:/Proga/QT5/Task1/out/build/x64-Debug/src/Lesson1/CMakeFiles/lesson1_autogen.dir
